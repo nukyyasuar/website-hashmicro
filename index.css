@@ -7,7 +7,7 @@ html{
 }
 body{
     overflow-x: hidden;
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('/assets/image/bg-fixed.webp');
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('assets/image/bg-fixed.webp');
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -134,12 +134,12 @@ a{
 
 /* Content 5 */
 #content5{
-    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url('/assets/bg2-video-section.png');
+    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url('assets/bg2-video-section.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 #content5:hover{
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('/assets/bg2-video-section.png');
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/bg2-video-section.png');
     background-repeat: no-repeat;
     background-position: center;
 }
